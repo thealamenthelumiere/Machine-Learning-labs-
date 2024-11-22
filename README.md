@@ -1,2 +1,2 @@
-# Machine-Learning-labs-
-Machine Learning (labs)
+# Machine-Learning-lab1-
+Machine Learning (lab1)
